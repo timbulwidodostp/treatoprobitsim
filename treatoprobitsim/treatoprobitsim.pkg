@@ -1,4 +1,12 @@
-D 'shumhaz': Shumway (2001 JB) hazard procedure Use shumhaz With STATA 19
+D 'treatoprobitsim': Estimate effect of potentially endogenous binary treatment on discrete, ordered outcome Use treatoprobitsim With STATA 19
 D
-F shumhaz.ado
-F shumhaz.hlp
+F treatoprobit.ado
+F treatoprobit.sthlp
+F treatoprobit_p.ado
+F treatoprobit_postestimation.sthlp
+F treatoprobit_work.ado
+F treatoprobitsim.ado
+F treatoprobitsim.sthlp
+F treatoprobitsim_p.ado
+F treatoprobitsim_postestimation.sthlp
+F treatoprobitsim_work.ado
